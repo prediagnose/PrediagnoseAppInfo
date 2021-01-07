@@ -11,10 +11,11 @@ What information do we collect?
 - Our services never collect or store any user login credentials, emails, or any such private information, and cannot associate any identifiable information with e.g. the QR codes the different users scan.
 - We require an email address or google account in order to sign the user into the app, for security reasons and to compartmentalize the workflow in case multiple users use the same app. This login is handled transparently, privately, and in a standard manner by auth0.com, using european servers, and is translated into a unique unidentifiable random session id that we do not store, we only check if it is valid.
 - The custom sensor hardware we provide collects measurements from the sample the user provides, and it does not have any capabilities to measure or "snoop" any private information from its surroundings, from the user, or from the user's app and device. This data is sent to the server to process the requested analysis and return results. The data is processed in a stateless way and discarded after the results are delivered back. Temporary files may be stored, but no identifiable information is stored in them, or associated to them.
+- All servers we use for our services are located in Europe and are GDPR compliant.
 
 How do we use the information?
 ---
-- We use the information to secure the app's session to the servers, and conduct analysis on the data provided from the user's sample to our paired custom diagnosis hardware. The services we provide are designed in a stateless way.
+- We use the information to secure the app's session between the user's device and the servers, and conduct analysis on the data provided from the user's sample to our paired custom diagnosis hardware. The services we provide are designed in a stateless way.
 - Any data that might be stored is not linked to any user's identity and only resides on our servers during the time it takes to process the data, for the express purpose of processing the data from the samples introduced into our products to serve the requested analysis result to the user.
 
 
