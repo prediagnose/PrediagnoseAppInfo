@@ -13,10 +13,10 @@ What information do we collect?
 
 How do we use the information?
 ---
--We use the information to secure the app's session to the servers, and conduct analysis on the data provided from the user's sample to our paired custom diagnosis hardware. The services we provide are designed in a stateless way.
--Any data that might be stored is not linked to any user's identity and only resides on our servers during the time it takes to process the data, for the express purpose of processing the data from the samples introduced into our products to serve the requested analysis result to the user.
+- We use the information to secure the app's session to the servers, and conduct analysis on the data provided from the user's sample to our paired custom diagnosis hardware. The services we provide are designed in a stateless way.
+- Any data that might be stored is not linked to any user's identity and only resides on our servers during the time it takes to process the data, for the express purpose of processing the data from the samples introduced into our products to serve the requested analysis result to the user.
 
 
 What information do we share?
 ---
--We don't share any information with any 3rd parties, and the purpose of our services is to be a stateless processor of data through our custom hardware that we sell. Our purpose is not to collect (or share) data.
+- We don't share any information with any 3rd parties, and the purpose of our services is to be a stateless processor of data through our custom hardware that we sell. Our purpose is not to collect (or share) data.
