@@ -1,4 +1,4 @@
-# Privacy Policy and Terms of Service
+# PreDiagnose Online - Privacy Policy and Terms of Service
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
