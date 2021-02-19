@@ -1,5 +1,5 @@
 # Privacy Policy and Terms of Service
-
+---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
 ###### Privacy Policy
@@ -92,7 +92,7 @@ This Privacy Policy is subject to occasional revision, and if we make any materi
 
 
 
-
+---------------------------------------
 
 
 
