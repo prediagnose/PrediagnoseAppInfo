@@ -1,9 +1,9 @@
-# PreDiagnose Online - Privacy Policy v1.03 and Terms of Service v1.02
+# PreDiagnose Online - Privacy Policy v1.02 and Terms of Service v1.01
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
 ###### Privacy Policy
-###### Version 1.03
+###### Version 1.02
 ###### Last Modified: 16/02/2021
  
 *PreDiagnose Online* is PreDiagnose’s internet-based software application, which provides access to your personal account and enables you to conduct measurements using our device and sensors and provide you with automatic readings upon measurements. We produce and sell a variety of diagnostic products that consist of disposable sensors operated by our free app *PreDiagnose Online*, and a hardware device. Currently, all products are For Research/Investigational Use Only. Not for use in Diagnostic Procedures.
@@ -102,7 +102,7 @@ This Privacy Policy is subject to occasional revision, and if we make any materi
 
 
 ## Terms Of Service
-###### Version 1.02
+###### Version 1.01
 ###### Last Modified: 16/02/2021
 Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to PreDiagnose Online.
  
