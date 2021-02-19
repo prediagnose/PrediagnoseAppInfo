@@ -35,22 +35,27 @@ Each chip that we provide for our hardware, belongs to a set: a box of chips tha
 2. The right chip is used for the right measurement (and also for example the box of chips might come with its own bottle of suspension liquid calibrated for those chips only), 
 3. How many chips there are left in the box you’ve bought (to warn you based on how many you need for a test and if you’re running out), 
 4. To know what type of test needs to be run on the data that comes from this chip once the data reaches out servers. 
+
 These UUIDs do not have any user data associated with them, and the app can be used by essentially anyone with an email address (and it definitely does not require a patient’s email). Even if we were to write down the UUIDs of which chips we sent to which hospital, we wouldn’t be able to know who is using what chip or to whom the chips ended up. As soon as a blob (box) of chip UUIDs gets used up, it gets deleted from the server.
+
 ### User Registration
 PreDiagnose Online uses Auth0 https://auth0.com/, with servers located in the EU, to obtain a session token that is valid for our app and our servers. We use this to establish a secure session, and to prevent spam use of our services. The Auth0 login is done via google account or via an email address (with emailed one-time passwords (i.e. password less / no actual account). There is no connection between auth0 and our code; the only things we get on our side from auth0 is the fact that a user successfully registered for this session from a valid app, and their email address, and a session token id. The email address never leaves the device and is only available while the app is running (and logged in). There is no identifier ever generated from the email address and stored or sent anywhere in any way. We use the email address purely to display to the user that they are the ones currently using the app, and to send support tickets in the event that they choose to run a prediagnose hardware device diagnostic check.
+
 #### Use of Your Personal Data
 General Use. In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. Data taken is never sold nor shared with 3rd parties or used for advertising purposes. Ways we use your Personal Data include, but is not limited to: (1) to facilitate the creation of new order; (2) create a measuring session; (3) improve the quality of experience when you use our Applications; (4) send you a welcome email with access code. 
-Third Party Data Collection – Service Providers
+
+#### Third Party Data Collection – Service Providers
 We may employ third party companies and individuals to facilitate our Service ("Service Providers"), provide the Service on our behalf, perform Service-related services or assist us in analyzing how our Service is used.
 
-#### Third party services
+##### Third party services
 PreDiagnose Online uses Xamarin.forms android .net environment for the Android app. The app requires the app's Camera permission in order for the app to scan QR codes from the products that we sell. This is to identify the type of test the user is doing and to guide the user through the usage of e.g. the different number of test chips in our test box. Any wireless communication or "location" permissions required by the app are just for the use of the Bluetooth function to connect the device to our sample-measuring hardware, or to check if the device is online and send test data to the server to process.
+
 PreDiagnose Online uses a “serverless” stateless enterprise server environment (Microsoft and/or Amazon), with servers located in the EU, which we employ to run our server side code as stateless functions.
+
 ##### Analytics
 We may use third-party Service Providers to monitor and analyze the use of our Service.
-·      Google Analytics
-Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
-You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
+- Google Analytics
+	- Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network. You may opt-out of certain Google Analytics features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
 For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
 
 ##### Payments
@@ -69,14 +74,17 @@ Their Privacy Policy can be viewed at https://www.paypal.com/webapps/mpp/ua/priv
  
 ###### Links to Other Sites
 Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
  
 #### Data Retention Policy
 On your Android device, the data that comes from our custom hardware, is cached in temporary internal local data files, before it gets sent to the server for processing. On the server it arrives as a blob, and once the server function is run on it, the blob is deleted from the server. The local cached file might remain on the local device however, e.g. if the type of test requires a “Baseline measurement” or “blank measurement” to be done and stored for use with the next defined amount of tests you perform from this box of chips. The cached file(s) will be removed at the latest when the box of tests is finished (or when the app is uninstalled). But no identifiable data is stored
+
 PreDiagnose does not keep a copy of the final results output and it is the customer responsibility to keep a copy of the final output.
 
 ### Contact Information
 PreDiagnose Online welcomes your comments or questions regarding this Privacy Policy. Please email us at support@prediagnose.dk or contact us at the following address: PreDiagnose, Snedkergangnen 4D, St., tv., 2690 Karlslunde, Denmark
+
 ### Changes to This Privacy Policy
 This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, you will be notified on PreDiagnose Online platform each time the Privacy policy get an update. If you do not wish to permit changes in our Privacy Policy then you should not proceed with the login. Please note that each time you login to PreDiagnose Online you are accepting our Privacy Policy and it is on your responsibility to read and understand its terms. Continued use of our Applications, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. Please consult our Site regularly for any changes to this Privacy Policy.
  
@@ -98,43 +106,64 @@ Thank you for using our products and services (the “Service/s”). By using ou
 To use our Services you must follow some simple rules. The Service is only available for your private use and it is not intended for medical diagnostics. Do not misuse the Services, so that either PreDiagnose or anyone else is harmed in any way. You may only use the Services as permitted by law and these Terms. By using our Services, you agree that:
 
 PreDiagnose does not monitor the contents of the Service, but may at any time choose, at its sole discretion, to remove User Material from the Service.
+
 PreDiagnose is not in any way responsible for any loss or damage caused by unauthorized use if the platform or the hardware. The 
+
 PreDiagnose Online is not intended for use by private personal. PreDaignose Online is meant to be used by trained medical staff only for research purpose and not for medical diagnostics 
 
 You may not engage in any commercial activities, advertise and/or provide hints (such as links) on where commercial activities are present through our Services.
+
 You may not contribute with any propaganda, religious and/or political views, or contribute with information which in any way contains or involves incitement to racial hatred, child pornography or pornography through the use of our Services. Further, you may not defame, harass or offend other people through the use of our Services.
+
 If you have any criticism or feedback regarding PreDiagnose Online or our Services, you will first contact PreDiagnose to help us to improve our Services.
+
 You may not transmit, and/or distribute files that may damage PreDiagnose or others’ computers or property (such as viruses and trojan horses).
+
 You may not share others’ personal information, without their approval.
+
 PrePaSens is at Beta level and performance is being validated internally.
+
 Customer is using the system at own risk.  
+
 PrePaSens is explicitly for research use only and cannot be used for medical diagnostics.
+
 By placing the order, the customer acknowledge that they have been informed that the sensors have not been tested till the day of purchase on any human samples and that could result in fault output and the customer will be using the sensors at own risk.
+
 By placing the order, the customer acknowledge that they fully understand that these sensors is a Beta model and under development and there is a room for improvement
+
 By placing the order the customer acknowledges that they read and accepted our terms and conditions.
+
 The customer owns the generated results.
 
 ### Your account
 PreDiagnose Online does not create an account for the user but create a secure session through third party services, Auth0. PreDiagnose Online stays active for 8 hours before logging off. If you wish to log of after performing a test you must actively press log off to terminate the active session.
+
 You are responsible for the way you are using the services provided by PreDiagnose hardware and software. PreDiagnose is not a medical organization, and we will not provide you with any medical advice or diagnosis. The purpose of the Services is solely for research purposes and is not meant for medical diagnostics.
  
 ### Intellectual Property
 All rights in and to the Services, including any trademarks, service marks, trade names and copyrighted content (collectively “Intellectual Property”) presented within the Service are the property of PreDiagnose and/or third parties. 
+
 You agree not to use Intellectual Property for any other purposes except for your use of the Service, unless required otherwise by applicable mandatory law.
  
 ### Disclaimer and limitation of liability
 You use the Service at your own risk. The Service is provided, without any warranties, and PreDiagnose does not warrant that the Service and availability thereof will be uninterrupted or error free. PreDiagnose does not assume any responsibility for errors or omissions in the information or software or other documents, including User Material, which are referenced by or linked to. References or links to third parties' websites are provided without warranty of any kind, either express or implied.
+
 In no event shall PreDiagnose be liable for any indirect or consequential damages, except in cases of intentional misconduct or gross negligence. 
  
 ### Miscellaneous
 The United Nations Convention for the International Sale of Goods shall not apply to these GTCS or to any contracts of sale entered into between us.
+
 No waiver of any provision of these GTCS shall constitute a waiver of any other provision(s) or of the same provision on another occasion. Failure of either party to enforce any provision of these GTCS shall not constitute a waiver of such provision or any other provision(s) of these GTCS.
+
 Should any provision of these GTCS be held by a court of competent jurisdiction to be illegal, invalid or unenforceable, such provision may be modified by such court in compliance with the law giving effect to the intent of the parties and enforced as modified. All other terms and conditions of these GTCS shall remain in full force and effect and shall be construed in accordance with the modified provision.
+
 The customer can neither disclose, sell nor otherwise transfer information, device or sensors to third parties, unless the PreDiagnose has given written consent.
+
 These GTCS and all contracts of sale entered into between us shall be governed by and construed in accordance with the laws of Denmark without giving effect to any choice of law or conflict of law provisions. Any suits, actions or proceedings that may be instituted by either of us against the other shall be instituted exclusively before the competent courts of Denmark, however, without prejudice to our right to bring suits, actions or proceedings in any other court which would have jurisdiction if this provision had not been incorporated into these GTCS.
  
 ### Governing law and dispute resolution
 These Terms and the use of the Services are governed by the laws of Denmark, except for its conflicts of laws principles. All claims arising out of or relating to these Terms or the Service shall be resolved by Danish courts, whereby the District Court of Frederiksberg shall be the court of first instance.
+
 For further information, inquiries or assistance you may contact PreDiagnose. Customer Service is available in ways specified on the website or in the apps. The channels for support might differ from time-to-time.
  
 ### Contact Information
