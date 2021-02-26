@@ -32,7 +32,7 @@ Each chip that we provide for our hardware, belongs to a set: a box of chips tha
 1. The chips are not counterfeit,
 2. The right chip is used for the right measurement (and also for example the box of chips might come with its own bottle of suspension liquid calibrated for and attributed to those chips only), 
 3. How many chips there are left in the box you’ve bought (to warn you based on how many you need for a test and if you’re running out), 
-4. To know what type of test needs to be run on the data that comes from this chip once the data reaches our servers. 
+4. To know what type of test needs to be run on the data that comes from this chip once the data reaches our servers.
 
 These UUIDs are database IDs for the required service functionality, and do not have any identifiable user data associated with them. The app can be used by essentially anyone with an email address but it is not associated to any UUIDs, as users and multiple apps can share boxes (and also the used emails do not have to be a patient's or a doctor's email). We have no way of knowing who is using what chip or to whom the chips ended up. After a box of chip UUIDs gets used up, it gets deleted from the server.
 
