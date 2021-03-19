@@ -1,4 +1,4 @@
-# PreDiagnose Online - Privacy Policy v1.03 and Terms of Service v1.02
+# PreDiagnose Online - Privacy Policy v1.03 and Terms of Service v1.03
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
@@ -99,7 +99,7 @@ A complaint can also be lodged with the Danish Data Protection Agency, Carl Jaco
 
 
 ## Terms Of Service
-###### Version 1.02
+###### Version 1.03
 ###### Last Modified: 19/03/2021
 Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms Of Service and to our Published Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to *PreDiagnose Online*.
  
@@ -246,6 +246,7 @@ PreDiagnose is not liable for any damage and loss the customer may suffer direct
 Any dispute arising from the parties' cooperation and this agreement must be settled by the parties by negotiation. Disputes which cannot be settled by the parties must be settled pursuant to Danish law by the Copenhagen City Court as the exclusive jurisdiction. This is not a hindrance for bringing the case before the Danish Maritime and Commercial court or the Eastern High Court pursuant to the rules thereon in force at any time.
 For further information, inquiries or assistance you may contact PreDiagnose. Customer Service is available in ways specified on the website or in the apps. The channels for support might differ from time-to-time.
 
+AppendiX A is available in the following link: https://www.prediagnose.com/appendix-a
   
 ### Contact Information
 ###### PreDiagnose ApS
