@@ -1,4 +1,4 @@
-# PreDiagnose Online - Privacy Policy v1.02 and Terms of Service v1.01
+# PreDiagnose Online - Privacy Policy v1.03 and Terms of Service v1.01
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
@@ -34,68 +34,58 @@ We process your personal data for the following purposes:
 -	To send you a welcome email with an access code. 
 
 
-#### Types of Data We Collect
-Each chip that we provide for our hardware, belongs to a set: a box of chips that we sell for a specific measurement, and we have a variety of such boxes. Each chip has a QR code on it that was generated at the production time of the chip. The QR code contains a sequential UUID (Universally Unique Identifier) that is stored on our server as part of a blob (a data file) containing all the UUIDs for all the chips for the current box. This is to ensure that 
-1. The chips are not counterfeit,
-2. The right chip is used for the right measurement (and also for example the box of chips might come with its own bottle of suspension liquid calibrated for and attributed to those chips only), 
-3. How many chips there are left in the box you’ve bought (to warn you based on how many you need for a test and if you’re running out), 
-4. To know what type of test needs to be run on the data that comes from this chip once the data reaches our servers.
+#### The legal basis for processing of personal data
+The legal basis for our processing of personal data are based on the following clauses in the General Data Protection Regulation (the “GDPR”):
 
-These UUIDs are database IDs for the required service functionality, and do not have any identifiable user data associated with them. The app can be used by essentially anyone with an email address but it is not associated to any UUIDs, as users and multiple apps can share boxes (and also the used emails do not have to be a patient's or a doctor's email). We have no way of knowing who is using what chip or to whom the chips ended up. After a box of chip UUIDs gets used up, it gets deleted from the server.
+•	Article 6(1)(a) of the GDPR
+•	Article 6(1)(b) of the GDPR
+•	Article 6(1)(f) of the GDPR
 
-### User Registration
-For logging in, PreDiagnose Online uses Auth0 https://auth0.com/privacy, with servers located in the EU, to obtain a session token that is valid for our app and our servers. We use this to establish a secure session, and to prevent spam use of our services. The Auth0 login is done via an existing Google or Microsoft account or other social accounts chosen by the user, or via a direct email address (with emailed one-time passwords) - and there is no actual "user registration"; the login scheme can be thought of as "passwordless" or "registrationless" authentication. There is also no connection between an Auth0 database and our own code / services; the only things we receive on our side from Auth0 is the fact that the current user successfully authenticated for this session using a valid PreDiagnose Online app, their email address, and a temporary session token id. This information including the email address, is only available while the app is running (and logged in), and never leaves the user's device without their active and explicit request. There is no identifier ever generated from the email address and neither such an ID nor the email itself are stored or sent anywhere by us in any way. We use the email address purely to display to the user that they are the ones currently using the app, and to send support tickets in the event that they choose to run a PreDiagnose hardware device diagnostic check.
+If processing of personal data is on the legal basis of either article 6(1)(a), i.e. your consent, you have the right to withdraw your consent at any time. The withdrawal will not affect the legality of the processing carried out prior to the withdrawal of consent.
 
-#### Use of Your Personal Data
-General Use. In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. In all cases any and all personal data we receive will have been submitted to us directly and actively and willingly by the user. Data taken is never sold nor shared with 3rd parties or used for advertising purposes. Ways we use your Personal Data include, but are not limited to: (1) to facilitate the creation of new orders; (2) to create a measuring session; (3) to improve the quality of experience when you use our Applications; (4) to send you a welcome email with access code. 
+Processing of personal data on the legal basis of article 6(1)(f), is first and foremost based on our legitimate interests in ensuring network and information security, including preventing unauthorized access to the electronic communication network (the Application), malicious code distribution, stopping “denial of service-attacks” and damage to the electronic communication system (the Application). Secondly and in connection with the above, processing is based on our legitimate interest in ensuring the Application’s functionality and flowless operation and the possibility in offering a satisfactory service. 
 
-#### Third Party Data Collection – Service Providers
-We may employ third party companies and individuals to facilitate our Service ("Service Providers"), provide the Service on our behalf, perform Service-related services or assist us in analyzing how our Service is used.
 
-##### Third party services
-The PreDiagnose Online mobile app is built using the Xamarin.forms Android .NET environment. The app requires the app's Camera permission in order for the app to scan QR codes from the products that we sell. This is to identify the type of test the user is doing and to guide the user through the usage of e.g. the different number of test chips in our test boxes. Any wireless communication or "location" permissions required by the app are just for the use of the Bluetooth function to connect the device to our sample-measuring hardware, or to check if the device is online and send test data to the server to process.
+#### Recipients of personal data
+As a rule, only PreDiagnose’s trusted employees may process your personal data for the purposes listed above.
 
-For logging in, PreDiagnose Online uses Auth0 https://auth0.com/ as mentioned in the User Registration section.
+If PreDiagnose however discloses or otherwise transfers personal data to a third party, e.g. a service provider for the purposes listed above, PreDiagnose ensures that such disclosure or transfer is lawful at all times. 
 
-PreDiagnose Online's server side processing uses a “serverless” stateless enterprise server environment (Microsoft and/or Amazon), with servers located in the EU, which we employ to run our server side code as stateless functions for the processing of test data and computing diagnosis.
 
-##### Analytics
-We may use third-party Service Providers to monitor and analyze the use of our Service.
-We may use in-app analytics but only temporary upon express request from the user to submit an error report, or user feedback, or a device calibration result. This data may contain the current logged in user's email address and the current sensor chip UUID and even the result of the diagnosis. Submitting these kinds of reports is voluntary and as we have mentioned in the "Types of Data We Collect" section, an email does not necessarily need to represent the patient nor the doctor, researcher, or organization.
+##### Transfer of personal data to countries or international organizations outside the EU/EEA ("Third Countries")
+To the extent that the processing of personal data may involve a transfer to third countries, e.g. by using a hosting provider located in a non-EU/EEA country, PreDiagnose ensures that such transfer is lawful at all times, including that the requirements of the General Data Protection Regulation for the establishment of an adequate level of protection for the transfer are met.
 
-The app store package-level analytics and statistics on the deployent, usage, or crash reports of our app on the Google Play store are standard and subject to the privacy practices of Google. Please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+##### Storage of personal data
+Personal data is stored for as long as necessary for the fulfilment of the purpose for which it is collected and processed, unless there are circumstances in favor of longer storage, for example an ongoing lawsuit or prospect.
 
-##### Payments
-We may provide paid products and/or services within the Service. In that case, we will use third-party services for payment processing (e.g. payment processors).
+##### Rights of data subjects
+Besides from the right to withdraw any consent given, the GDPR also provides you with the following rights: 
 
-We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
+Right of access by the data subject – article 15: 
+•	You have the right to obtain from us confirmation as to whether or not personal data concerning you are being processed, and, where that is the case, access to the personal data and the information listed in article 15, e.g. purpose of the processing, the recipients, etc. 
 
-The payment processors we may work with are:
-- Apple Store In-App Payments
-	- Their Privacy Policy can be viewed at https://www.apple.com/legal/privacy/en-ww/
-- Google Play In-App Payments
-	- Their Privacy Policy can be viewed at https://www.google.com/policies/privacy/
-- Stripe
-	- Their Privacy Policy can be viewed at https://stripe.com/us/privacy
-- PayPal / Braintree
-	- Their Privacy Policy can be viewed at https://www.paypal.com/webapps/mpp/ua/privacy-full
- 
-###### Links to Other Sites
-Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+Right to rectification – article 16:
+•	You have the right to request rectification of inaccurate personal data without undue delay and in specific cases, to have incomplete data completed.
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
- 
-#### Data Retention Policy
-On your Android device, the data that comes from our custom hardware, is cached in temporary internal local data files, before it gets sent to the server for processing. On the server it arrives as a blob file, and once the server function is run on it, the blob is deleted from the server. The local cached file might remain on the local device however, e.g. if the type of test requires a “Baseline measurement” or “blank measurement” to be done and stored for use with the next defined amount of tests you perform from this box of chips. The cached file(s) will be removed at the latest when the box of tests is finished (or when the app is uninstalled). No emails or UUIDs or user identifiable data is stored in these files.
+Right to erasure – article 17:
+•	You have the right to obtain from us the erasure of your personal data without undue delay, and we have an obligation to erase your personal data on one of the grounds listed in article 17.
 
-PreDiagnose does not keep a copy of the final results / diagnosis output and it is the customer's responsibility to keep a copy of the final output.
+Right to restriction of processing – article 18:
+•	You have the right to obtain from us restriction of processing of your personal data when one on the grounds in article 18 applies. 
 
-### Contact Information
-PreDiagnose Online welcomes your comments or questions regarding this Privacy Policy. Please email us at support@prediagnose.dk or contact us at the following address: PreDiagnose, Snedkergangnen 4D, St., tv., 2690 Karlslunde, Denmark
+Right to data portability – article 20:
+•	You have the right to receive the personal data concerning you, which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to another data controller without hindrance from us. If requested and technical possible, we may also transmit the data to another data controller.
 
-### Changes to This Privacy Policy
-This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your Personal Data, you will be notified on PreDiagnose Online platform each time the Privacy policy gets an update. If you do not wish to permit changes in our Privacy Policy then you should not proceed with the login. Please note that each time you login to PreDiagnose Online you are accepting our Privacy Policy and it is your responsibility to read and understand its terms. Continued use of our Applications, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. Please consult our Site regularly for any changes to this Privacy Policy.
- 
+Right to object – article 21:
+•	You have the right to object, on grounds relating to your particular situation, at any time to processing of personal data concerning you which is based on the legal basis of article 6(1)(f) of the GDPR (i.e. our legitimate interests). 
+
+The abovementioned articles may include limitations or conditions associated with these rights, and the right to exercise your rights thus depends on the specific circumstances of the specific processing activities, e.g. it will not be possible to have personal data deleted, if deletion would conflict with PreDiagnose’ obligations under applicable law.
+
+As a data subject, you can raise questions about your rights or exercise these by contacting us. Please find the contact information above.
+
+A complaint can also be lodged with the Danish Data Protection Agency, Carl Jacobsens Vej 35, 2500 Valby.
+
+
 
 
 
