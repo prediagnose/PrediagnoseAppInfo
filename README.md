@@ -3,8 +3,8 @@
 ## Privacy Policy
 ###### PreDiagnose ApS.
 ###### Privacy Policy
-###### Version 1.02
-###### Last Modified: 16/02/2021
+###### Version 1.03
+###### Last Modified: 19/03/2021
  
 This privacy policy contains information about PreDiagnose ApS’ (“PreDiagnose”) processing of personal data in connection with usage of PreDiagnose’s internet-based software application, *PreDiagnose Online* (the “Application”).
 ### The data controller
@@ -99,74 +99,154 @@ A complaint can also be lodged with the Danish Data Protection Agency, Carl Jaco
 
 
 ## Terms Of Service
-###### Version 1.01
-###### Last Modified: 16/02/2021
-Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to PreDiagnose Online.
+###### Version 1.02
+###### Last Modified: 19/03/2021
+Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms Of Service and to our Published Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to *PreDiagnose Online*.
  
 ### Using our Services
-To use our Services you must follow some simple rules. The Service is not intended for medical diagnostics. Do not misuse the Services, so that either PreDiagnose or anyone else is harmed in any way. You may only use the Services as permitted by law and these Terms. By using our Services, you agree that:
+To use our Services, you must follow some simple rules. The Service is not intended for medical diagnostics. Do not misuse the Services, so that either PreDiagnose or anyone else is harmed in any way. You may only use the Services as permitted by law and these Terms. By using our Services, you agree that:
 
 PreDiagnose does not monitor the contents of the Service, but may at any time choose, at its sole discretion, to remove User Material from the Service.
 
-PreDiagnose is not in any way responsible for any loss or damage caused by unauthorized use if the platform or the hardware.
+PreDiagnose is not in any way responsible for any loss or damage caused by unauthorized use of the platform or the hardware.
 
-PreDiagnose Online is not intended for private personal use. PreDaignose Online is meant to be used by trained medical staff only for research purpose and not for medical diagnostics.
-
-You may not engage in any commercial activities, advertise and/or provide hints (such as links) on where commercial activities are present through our Services.
+PreDiagnose’s products are not intended for private personal use. PreDaignose’s products are meant to be used by trained medical staff or researchers only for research purposes and not for medical diagnostics.
 
 You may not contribute with any propaganda, religious and/or political views, or contribute with information which in any way contains or involves incitement to racial hatred, child pornography or pornography through the use of our Services. Further, you may not defame, harass or offend other people through the use of our Services.
 
-If you have any criticism or feedback regarding PreDiagnose Online or our Services, you will first contact PreDiagnose to help us to improve our Services.
+If you have any criticism or feedback regarding PreDiagnose Online, our products or our Services, you will first contact PreDiagnose to help us to improve.
 
 You may not transmit, and/or distribute files that may damage PreDiagnose or others’ computers or property (such as viruses and trojans).
 
 You may not share others’ personal information, without their approval.
 
-Prediagnose Online is at Beta level and performance is being validated internally.
+Prediagnose’s products are at Beta level and performance is being validated internally.
 
-Customer is using the system at own risk.  
+Customer is using the system at own risk.
 
-Prediagnose Online is explicitly for research use only and cannot be used for medical diagnostics.
+PreDiagnose’s products are explicitly for research use only and cannot be used for medical diagnostics.
 
 By placing the order, the customer acknowledge that they have been informed that the sensors have not been tested till the day of purchase on any human samples and that could result in fault output and the customer will be using the sensors at own risk.
 
 By placing the order, the customer acknowledge that they fully understand that these sensors are a Beta model and under development and there is room for improvement.
 
-By placing the order the customer acknowledges that they read and accepted our terms and conditions.
+By placing the order, the customer acknowledges that they read and accepted our terms and conditions.
 
-The customer owns the generated results.
+PreDiagnose reserves the right to change its Privacy Policy, Terms and Conditions and Terms of Services at any time. The online published versions of these three documents are the governing documents. 
 
 ### Your account
 PreDiagnose Online does not create an account for the user, but creates a secure session through third party services, Auth0. PreDiagnose Online stays active for 8 hours before logging off. If you wish to log off after performing a test you must actively press log off to terminate the active session.
 
 You are responsible for the way you are using the services provided by PreDiagnose hardware and software. PreDiagnose is not a medical organization, and we will not provide you with any medical advice or diagnosis. The purpose of the Services is solely for research purposes and is not meant for medical diagnostics.
- 
-### Intellectual Property
-All rights in and to the Services, including any trademarks, service marks, trade names and copyrighted content (collectively “Intellectual Property”) presented within the Service are the property of PreDiagnose and/or third parties. 
 
-You agree not to use Intellectual Property for any other purposes except for your use of the Service, unless required otherwise by applicable mandatory law.
+### Services and service level 
+#### *Description of the software and the system*
+Appendix A includes a general description of the system. The system is developed on an ongoing basis and new functionalities will be added in this connection. On PreDiagnose's website is an updated overview of the system and its functionalities as well as online documentation and guidelines to the use of the system.
+Upon request and according to agreement hereon, PreDiagnose offers to assist with the configuration of the system.
+ 
+#### *Consultancy services* 
+If the customer needs PreDiagnose's assistance in connection with the integration to other systems or needs other consultancy services which PreDiagnose is able to deliver, such services can be delivered upon separate agreement hereon whereas the delivery is made in accordance with these Terms.
+
+#### *Uptime*
+PreDiagnose aims at an uptime of 95% during business days and ordinary business hours, i.e., 09:00 – 17:00 within the primary performance period. Any planned maintenance will be made within the secondary performance period. The system will thus be unavailable to a short or large extent within the secondary performance period, and PreDiagnose has therefore not stated any aimed uptime during the secondary performance period.  PreDiagnose is not responsible if the customer looses internet connection during an ongoing measurement. Loss of internet connection will lead to a failure to complete the test and the sensor will have to be disposed.
+
+#### *Security*
+PreDiagnose Online uses third party services to generate a unique measuring session and to process the data. For more details about the security level that the third party applies please have a look at the following links:
+
+Auth0 security and compliance: https://auth0.com/security
+Azure customer data protection: https://docs.microsoft.com/en-us/azure/security/fundamentals/protection-customer-data
+Azure Monitoring: https://docs.microsoft.com/en-us/azure/security/fundamentals/infrastructure-monitoring
+
+#### *Backup*
+PreDiagnose does not store and will not keep any backup of the data. It is the sole responsibility of the customer to store the measuring output and ensure its security
+
+#### *Other safety measure*
+Appendix A includes a specification of the other safety measures implemented in the system, protection of the customer's/users' data, encryption, use of logins/passwords, digital signature, firewall and antivirus applications etc.
+
+#### *Maintenance*
+PreDiagnose work on ensuring a continuous operation of the system, including ongoing maintenance of the system by correcting errors and inconveniences and by further developing the system through the development of existing functionalities and developing new functionalities. All planned maintenance is made during the secondary performance period, cf. clause 3.b. it may, however, be necessary to perform immediate rectification of errors or implementation of changes for e.g. safety purposes, or in case of critical errors, cf. clause 3.h. In such cases where rectification cannot wait until the secondary performance period, PreDiagnose may in certain circumstances be forced to take the whole, or part of the, system out of operation during the primary performance period. PreDiagnose will to the extent possible seek to minimize the inconveniences of such rectification and will notify the customer/user of the maintenance to the extent this is possible.
+If the system is completely or partly inaccessible due to errors or maintenance, the reasons and status hereof and the expected completion time will appear from PreDiagnose's website.
+
+#### *The customer's reporting of errors and breakdown*
+If the customer establishes errors or breakdown in the system, the customer must report these by using the helpdesk, cf. clause 3.j. The customer is, however, recommended to visit PreDiagnose's website prior to reporting the error, as the error may already have been established and a remedy has been initiated.
+
+#### *Response time*
+Remedy of errors will be initiated within the response times in appendix A calculated from the time of the establishment of the error/reception of the customers reporting of the error depending on which occurs first. Errors are divided into the categories of: critical, noncritical and minor errors.
+
+Critical errors include errors which cause the whole, or part, of the system or any crucial functionality e.g. the functionality to upload information to be unavailable. 
+Noncritical errors are errors causing certain functionalities that are not of crucial importance for the use of the system to become unavailable or causes the response times in the system to become inconvenient for the customer/user while the functionality is working.
+
+Minor errors are small errors and inconveniences which cause the customer/user to experience small inconveniences in the daily use, e.g. that insignificant functionality does not work as expected, including long response times in certain functionalities which, however, do not prevent the use of the system and its functionalities.
+
+Remedy of critical errors will be initiated within 48 hours calculated in normal working hours. Remedy of noncritical errors will be initiated with undue delay within normal working hours. Minor errors will be remedied within reasonable time and PreDiagnose reserves the right to postpone the remedy to a later update of the system. PreDiagnose is not responsible in the event of waste of sensors caused due to errors with the software/hardware.
+
+Normal working hours are all working days between 9.00 – 16.00 with the exception of 24 and 31 December, 1 January and 5 June and any bank holiday in Denmark. Working hours are hours during the normal working hours.
+
+#### *Helpdesk*
+PreDiagnose provides helpdesk services, to which it is possible to ask questions by using the email service and other helpdesk tools. The customer must not expect a response to inquiries by telephone, as all contact must be made using the email service.
+
+The helpdesk only includes guidance and specific advice regarding the use of the system, and the customer must especially note that the following are not covered by the helpdesk service:
+
+Response to questions which necessitates that PreDiagnose's consultants visit the customer on site.
+
+Errors and problems caused by equipment, telephone connection or third-party software and which cannot be ascribed to the system.
+
+Questions regarding third party equipment.
+
+PreDiagnose reserves the right to invoice hours spent by PreDiagnose helpdesk to respond to inquiries which are outside the current helpdesk service. Invoices for these services are issued pursuant to the current terms and prices at any time for delivery of PreDiagnose consultancy services.
+
+The helpdesk is staffed on working days from 9.00 – 16.00. PreDiagnose endeavours to respond to all inquiries within 48 hours after receipt. If this, against all expectations, is not possible, PreDiagnose will within this deadline inform the customer of a deadline before which the customer will receive a response.
+
+At each inquiry, the customer is referred to the tools available on the website, and is instructed to provide the customer's name. This gives PreDiagnose the necessary information to be able to respond to the question.
+
+#### *Changes in the services and service level* 
+It cannot be excluded that due to safety considerations, including the appearance of new safety threats and risks or other external reasons, PreDiagnose will have to change the services and the service levels and that this may entail significant inconvenience for the customer. The customer will be informed about such changes through the published terms and services
+
+#### *Training*
+PreDiagnose offers training in the use of the system. Training sessions are agreed on individual terms, and the parties agree on the extent, time, place and price.
+
+### Prices and payment terms
+Invoices falls due for payment 30 days after the invoice date. In case of late payment, PreDiagnose is entitled to claim interest payments from the due date of 1.5% per month.
+If the payment has not been settled by the due date, PreDiagnose is entitled to prevent the customer's and the users' access to the system, until the payment has been received by PreDiagnose.
+Please refer to our terms on conditions for full details about the payment terms.
+
+### The Customer’s/uses data
+PreDiagnose is not take part in the collection and distribution of data but only stores and processes the necessary data on behalf of the customer and the users in accordance with this agreement. The customer and the users decide who is granted access to specific data in the system. PreDiagnose will disclose certain amount of data with third party that is necessary to enable a secure session and to complete the requested measurements. PreDiagnose will disclose or distribute the customer's or the users' data to a third party in circumstances where a public authority pursuant to the legislation requests access to the data, including if a court instructs PreDaignose to disclose specific information.
+It rests with the customer to ensure that the collection and distribution of the stored data takes place in accordance with the legislation, including by complying with the data processing act in connection with personally identifiable data.
+In case of a safety breach or circumstances with a substantiated suspicion that the customer's/users' data have been compromised, the customer will immediately be informed thereon.
+
+### Confidentiality
+In addition to the data stored in the system, PreDiagnose also confidentially processes other information about the customer and the users, except in connection with information which publicly known. PreDiagnose, however, reserves the right to use the customer as reference but will not without specific accept from the customer refer potential customers to contact the customer.
+The customer warrants that the customer's users confidentially process information in the system. The customer and the users are obligated to keep user names, passwords and activation codes confidential and a misuse of these to access the system is of no concern to PreDiagnose.
+
+### Other terms for using the system
+The customer and the users must observe reasonable requests from PreDiagnose regarding the use of the system, just as they must follow the general procedures applying for the use of the system.
+
+The customer warrants that the use of the system is for legal purposes only and is in accordance with the current legislation in force at any time. If PreDiagnose establishes that the customer or the users are the reason for the safety being compromised, or that the system has been used or attempted to be used for illegal purposes, PreDiagnose reserves the right to prevent the customer/users from the wholly or partly use of the system, just as illegal material will be removed. This especially applies in cases where PreDiagnose may incur liability for acting passively in connection with established infringements; see the Danish E-Commerce Act. Prior to removing the material from the system, PreDiagnose will, to the extent possible, send the customer a written warning with a deadline for when the customer must have corrected the situation.
+
+The customer is obligated to indemnify PreDiagnose for each claim brought against the customer due to the customer's/users' misuse of the system and otherwise illegal behaviour.
+The customer is not allowed to loan or transfer the owner ship of the instrument/sensors to a third party without PreDiagnose consent.  
+
+### Intellectual Property
+PreDiagnose owns all rights to the system, including copyrights, trademark rights and other intellectual property rights. The customer must not crack or attempt to forward the sensors, product designs to a third-party, crack passwords, remove installed barriers on functionalities or connect more users than what has been agreed, cf. appendix A. Any violation of PreDiagnose's software and products is regarded as a material breach of this agreement.
  
 ### Disclaimer and limitation of liability
-You use the Service at your own risk. The Service is provided, without any warranties, and PreDiagnose does not warrant that the Service and availability thereof will be uninterrupted or error free. PreDiagnose does not assume any responsibility for errors or omissions in the information or software or other documents, including User Material, which are referenced by or linked to. References or links to third parties' websites are provided without warranty of any kind, either express or implied.
+YOU USE THE SERVICE AT YOUR OWN RISK. THE SERVICE IS PROVIDED, WITHOUT ANY WARRANTIES, AND PREDIAGNOSE DOES NOT WARRANT THAT THE SERVICE AND AVAILABILITY THEREOF WILL BE UNINTERRUPTED OR ERROR FREE. PREDIAGNOSE DOES NOT ASSUME ANY RESPONSIBILITY FOR ERRORS OR OMISSIONS IN THE INFORMATION OR SOFTWARE OR OTHER DOCUMENTS, INCLUDING USER MATERIAL, WHICH ARE REFERENCED BY OR LINKED TO. REFERENCED OR LINKED TO THIRD PARTIES’ WEBISITES ARE PROVIDED WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED.
 
-In no event shall PreDiagnose be liable for any indirect or consequential damages, except in cases of intentional misconduct or gross negligence. 
- 
-### Miscellaneous
-The United Nations Convention for the International Sale of Goods shall not apply to these GTCS or to any contracts of sale entered into between us.
+IN NO EVENT SHALL PREDIAGNOSE BE LIABLE FOR ANY INDIRECT CONSEQUENTIAL DAMAGES, EXCEPT IN CASES OF INTENTIONAL OR GROSS NEGLIGENCE.
 
-No waiver of any provision of these GTCS shall constitute a waiver of any other provision(s) or of the same provision on another occasion. Failure of either party to enforce any provision of these GTCS shall not constitute a waiver of such provision or any other provision(s) of these GTCS.
+IN NO EVENT PREDIAGNOSE BE LIABLE FOR ANY INDIRECT OR CONSEQUENTIAL DAMAGES, EXCEPT IN CASES OF INTENTIONAL MISCONDUCT OR GROSS NEGLIGENCE.
 
-Should any provision of these GTCS be held by a court of competent jurisdiction to be illegal, invalid or unenforceable, such provision may be modified by such court in compliance with the law giving effect to the intent of the parties and enforced as modified. All other terms and conditions of these GTCS shall remain in full force and effect and shall be construed in accordance with the modified provision.
+PREDIAGNOSE DISCLAIMS ANY LIABILITY FOR THE CUSTOMER'S OR THE USER'S INDIRECT LOSS OR CONSEQUENTIAL LOSS, INCLUDING OPERATING LOSS, LOSS OF EXPECTED REVENUE, LOSS OF PROFIT, LOSS OF GOODWILL, LOSS/DAMAGE OF DATA OR ANY OTHER TYPE OF COMMERCIAL DISRUPTION OR FINANCIAL CONSEQUENTIAL LOSS WHICH MAY OCCUR IN CONNECTION WITH USING THE SYSTEM, DEFECTS THEREIN, COUNSELLING OR DELIVERY OF OTHER SERVICES PURSUANT TO THIS AGREEMENT. YOU AGREE THAT NO COMPENSATION SHALL BE CLAIMED IN ANY CASE.
 
-The customer can neither disclose, sell nor otherwise transfer information, device or sensors to third parties, unless the PreDiagnose has given written consent.
+### Force Majeure
+PreDiagnose is not liable for any damage and loss the customer may suffer directly or indirectly as a result of PreDiagnose's delay or hindered performance of its obligations pursuant to this agreement due to a force majeure situation. A force majeure situation is e.g. war, mobilization, terror attacks, natural disasters, strikes, lockout, fire, import and exportation restrictions, virus attack, sickness of key employees, power failure, cut/breakdown in third party telephone connections and other unforeseeable circumstance, which PreDiagnose could not by reasonable measures have prevented.
 
-These GTCS and all contracts of sale entered into between us shall be governed by and construed in accordance with the laws of Denmark without giving effect to any choice of law or conflict of law provisions. Any suits, actions or proceedings that may be instituted by either of us against the other shall be instituted exclusively before the competent courts of Denmark, however, without prejudice to our right to bring suits, actions or proceedings in any other court which would have jurisdiction if this provision had not been incorporated into these GTCS.
- 
 ### Governing law and dispute resolution
-These Terms and the use of the Services are governed by the laws of Denmark, except for its conflicts of laws principles. All claims arising out of or relating to these Terms or the Service shall be resolved by Danish courts, whereby the District Court of Frederiksberg shall be the court of first instance.
-
+Any dispute arising from the parties' cooperation and this agreement must be settled by the parties by negotiation. Disputes which cannot be settled by the parties must be settled pursuant to Danish law by the Copenhagen City Court as the exclusive jurisdiction. This is not a hindrance for bringing the case before the Danish Maritime and Commercial court or the Eastern High Court pursuant to the rules thereon in force at any time.
 For further information, inquiries or assistance you may contact PreDiagnose. Customer Service is available in ways specified on the website or in the apps. The channels for support might differ from time-to-time.
- 
+
+  
 ### Contact Information
 ###### PreDiagnose ApS
 ###### Snedkergangen 4D, st., tv.
