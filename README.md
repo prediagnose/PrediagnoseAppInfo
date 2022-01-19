@@ -1,10 +1,10 @@
-# PreDiagnose Vet - Privacy Policy v1.03 and Terms of Service v1.03
+# PreDiagnose Vet - Privacy Policy v1.0 and Terms of Service v1.0
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
 ###### Privacy Policy
-###### Version 1.03
-###### Last Modified: 19/03/2021
+###### Version 1.0
+###### Last Modified: 19/01/2022
  
 This privacy policy contains information about PreDiagnose ApS’ (“PreDiagnose”) processing of personal data in connection with usage of PreDiagnose’s internet-based software application, *PreDiagnose Vet* (the “Application”).
 ### The data controller
@@ -99,8 +99,8 @@ A complaint can also be lodged with the Danish Data Protection Agency, Carl Jaco
 
 
 ## Terms Of Service
-###### Version 1.03
-###### Last Modified: 19/03/2021
+###### Version 1.0
+###### Last Modified: 19/01/2022
 Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms Of Service and to our Published Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to *PreDiagnose Vet*.
  
 ### Using our Services
@@ -126,7 +126,7 @@ Customer is using the system at own risk.
 
 PreDiagnose’s products are explicitly for research use only and cannot be used for medical diagnostics.
 
-By placing the order, the customer acknowledge that they have been informed that the sensors have not been tested till the day of purchase on any human samples and that could result in fault output and the customer will be using the sensors at own risk.
+By placing the order, the customer acknowledge that they have been informed that the sensors have not been tested till the day of purchase on any animal samples and that could result in fault output and the customer will be using the sensors at own risk.
 
 By placing the order, the customer acknowledge that they fully understand that these sensors are a Beta model and under development and there is room for improvement.
 
@@ -158,8 +158,9 @@ Azure customer data protection: https://docs.microsoft.com/en-us/azure/security/
 Azure Monitoring: https://docs.microsoft.com/en-us/azure/security/fundamentals/infrastructure-monitoring
 
 #### *Backup*
-PreDiagnose does not store and will not keep any backup of the data. It is the sole responsibility of the customer to store the measuring output and ensure its security
-
+ It is the sole responsibility of the customer to store the measuring output and ensure its security.
+ PreDiagnose will store only the data that is generated during a measurement session will be sent to our server for analysis. All data, including the test type and sample ID provided by the customer, will be stored on our server. The data will be used to improve our software and provide better service.
+ 
 #### *Other safety measure*
 Appendix A includes a specification of the other safety measures implemented in the system, protection of the customer's/users' data, encryption, use of logins/passwords, digital signature, firewall and antivirus applications etc.
 
