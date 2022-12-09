@@ -1,4 +1,4 @@
-# PreDiagnose Online - Privacy Policy v1.1 and Terms of Service v1.1
+# PreDiagnose Online - Privacy Policy v1.01 and Terms of Service v1.01
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
