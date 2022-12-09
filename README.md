@@ -1,4 +1,4 @@
-# PreDiagnose PreCare - Privacy Policy v1.03 and Terms of Service v1.03
+# PreDiagnose PreCare - Privacy Policy v1.03 and Terms of Service v1.04
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
