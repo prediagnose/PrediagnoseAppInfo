@@ -1,4 +1,4 @@
-# PreDiagnose Vet - Privacy Policy v1.0 and Terms of Service v1.0
+# PreDiagnose Online - Privacy Policy v1.0 and Terms of Service v1.0
 ---------------------------------------
 ## Privacy Policy
 ###### PreDiagnose ApS.
@@ -6,7 +6,7 @@
 ###### Version 1.0
 ###### Last Modified: 19/01/2022
  
-This privacy policy contains information about PreDiagnose ApS’ (“PreDiagnose”) processing of personal data in connection with usage of PreDiagnose’s internet-based software application, *PreDiagnose Vet* (the “Application”).
+This privacy policy contains information about PreDiagnose ApS’ (“PreDiagnose”) processing of personal data in connection with usage of PreDiagnose’s internet-based software application, *PreDiagnose Online* (the “Application”).
 ### The data controller
 When using the Application, personal data about you is collected and processed. 
 
@@ -101,7 +101,7 @@ A complaint can also be lodged with the Danish Data Protection Agency, Carl Jaco
 ## Terms Of Service
 ###### Version 1.0
 ###### Last Modified: 19/01/2022
-Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms Of Service and to our Published Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to *PreDiagnose Vet*.
+Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms Of Service and to our Published Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to *PreDiagnose Online*.
  
 ### Using our Services
 To use our Services, you must follow some simple rules. The Service is not intended for medical diagnostics. Do not misuse the Services, so that either PreDiagnose or anyone else is harmed in any way. You may only use the Services as permitted by law and these Terms. By using our Services, you agree that:
@@ -114,7 +114,7 @@ PreDiagnose’s products are not intended for private personal use. PreDaignose�
 
 You may not contribute with any propaganda, religious and/or political views, or contribute with information which in any way contains or involves incitement to racial hatred, child pornography or pornography through the use of our Services. Further, you may not defame, harass or offend other people through the use of our Services.
 
-If you have any criticism or feedback regarding PreDiagnose Vet, our products or our Services, you will first contact PreDiagnose to help us to improve.
+If you have any criticism or feedback regarding PreDiagnose Online, our products or our Services, you will first contact PreDiagnose to help us to improve.
 
 You may not transmit, and/or distribute files that may damage PreDiagnose or others’ computers or property (such as viruses and trojans).
 
@@ -135,7 +135,7 @@ By placing the order, the customer acknowledges that they read and accepted our 
 PreDiagnose reserves the right to change its Privacy Policy, Terms and Conditions and Terms of Services at any time. The online published versions of these three documents are the governing documents. 
 
 ### Your account
-PreDiagnose Vet does not create an account for the user, but creates a secure session through third party services, Auth0. PreDiagnose Vet stays active for 8 hours before logging off. If you wish to log off after performing a test you must actively press log off to terminate the active session.
+PreDiagnose Online does not create an account for the user, but creates a secure session through third party services, Auth0. PreDiagnose Online stays active for 8 hours before logging off. If you wish to log off after performing a test you must actively press log off to terminate the active session.
 
 You are responsible for the way you are using the services provided by PreDiagnose hardware and software. PreDiagnose is not a medical organization, and we will not provide you with any medical advice or diagnosis. The purpose of the Services is solely for research purposes and is not meant for medical diagnostics.
 
@@ -151,7 +151,7 @@ If the customer needs PreDiagnose's assistance in connection with the integratio
 PreDiagnose aims at an uptime of 95% during business days and ordinary business hours, i.e., 09:00 – 17:00 within the primary performance period. Any planned maintenance will be made within the secondary performance period. The system will thus be unavailable to a short or large extent within the secondary performance period, and PreDiagnose has therefore not stated any aimed uptime during the secondary performance period.  PreDiagnose is not responsible if the customer looses internet connection during an ongoing measurement. Loss of internet connection will lead to a failure to complete the test and the sensor will have to be disposed.
 
 #### *Security*
-PreDiagnose Vet uses third party services to generate a unique measuring session and to process the data. For more details about the security level that the third party applies please have a look at the following links:
+PreDiagnose Online uses third party services to generate a unique measuring session and to process the data. For more details about the security level that the third party applies please have a look at the following links:
 
 Auth0 security and compliance: https://auth0.com/security
 Azure customer data protection: https://docs.microsoft.com/en-us/azure/security/fundamentals/protection-customer-data
