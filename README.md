@@ -99,7 +99,7 @@ A complaint can also be lodged with the Danish Data Protection Agency, Carl Jaco
 
 
 ## Terms Of Service
-###### Version 1.0
+###### Version 1.01
 ###### Last Modified: 19/01/2022
 Thank you for using our products and services (the “Service(s)”). By using our Services, you accept and agree to these Terms Of Service and to our Published Terms and Conditions (“Terms”). Therefore, it is important that you carefully read through these Terms. If you do not agree to these Terms, you should not proceed with the login to *PreDiagnose Online*.
  
