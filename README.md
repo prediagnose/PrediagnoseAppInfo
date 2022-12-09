@@ -3,7 +3,7 @@
 ## Privacy Policy
 ###### PreDiagnose ApS.
 ###### Privacy Policy
-###### Version 1.03
+###### Version 1.04
 ###### Last Modified: 19/03/2021
  
 This privacy policy contains information about PreDiagnose ApS’ (“PreDiagnose”) processing of personal data in connection with usage of PreDiagnose’s internet-based software application, *PreCare* (the “Application”).
